@@ -1,0 +1,26 @@
+{
+   "quickAdd": {
+      "title": "浪愛即時",
+      "nav": {
+         "adoption": "動物認養",
+         "shelter": "動物收容所",
+         "language": "en"
+      },
+      "listTitle": {
+         "breed": "品種",
+         "company": "公司",
+         "work": "工作",
+         "meeting": "會議",
+         "event": "事件／活動",
+         "business": "商機",
+         "consumption": "消費",
+         "coupon": "點券",
+         "message": "行銷簡訊",
+         "mail": "行銷郵件",
+         "contact": "聯繫腳本",
+         "note": "記事本",
+         "announcement": "佈告欄",
+         "tag": "標籤"
+      }
+   }
+}
